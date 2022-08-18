@@ -94,7 +94,7 @@ Les ministères devraient collaborer avec leurs équipes de gestion des risques 
 
 ### Comment contribuer
 
-Voir [Comme contribuer](contributing.md)
+Voir [Comme contribuer](Contributing.md)
 
 ### Licence
 
