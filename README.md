@@ -98,6 +98,6 @@ Voir [Comme contribuer](Contributing.md)
 
 ### Licence
 
-Sauf indication contraire, le code source de ce projet est protégé par le droit d’auteur de la Couronne du gouvernement du Canada et distribué sous la [licence MIT](#).
+Sauf indication contraire, le code source de ce projet est protégé par le droit d’auteur de la Couronne du gouvernement du Canada et distribué sous la [licence MIT](LICENCE).
 
 Le mot-symbole « Canada » et les éléments graphiques connexes liés à cette distribution sont protégés en vertu des lois portant sur les marques de commerce et le droit d’auteur. Aucune autorisation n’est accordée pour leur utilisation à l’extérieur des paramètres du programme de coordination de l’image de marque du gouvernement du Canada. Pour obtenir de plus amples renseignements à ce sujet, veuillez consulter les [Exigences pour l’image du Canada](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque.html).
