@@ -2,28 +2,52 @@
 
 ([Français](#comment-contribuer))
 
-## How to Contribute
+# How to Contribute
 
-When contributing, post comments and discuss changes you wish to make via Issues.
+We'd love to accept your patches and contributions to this project. There are
+just a few small guidelines you need to follow.
 
-Feel free to propose changes by creating Pull Requests. If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to. Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
+## Contributor License Agreement
 
-If this is your first time contributing on GitHub, don't worry! Let us know if you have any questions.
+Contributions to this project must be accompanied by a Contributor License
+Agreement. You (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. Head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
 
-### Security
+You generally only need to submit a CLA once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
 
-**Do not post any security issues on the public repository!** See [Reporting Security Issues](Security.md)
+## Code Reviews
+
+All submissions, including submissions by project members, require review. We
+use GitHub pull requests for this purpose. Consult
+[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## Community Guidelines
+
+This project follows [Google's Open Source Community
+Guidelines](https://opensource.google/conduct/).
 
 ______________________
 
 ## Comment contribuer
 
-Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
+Nous serions ravis d'accepter vos correctifs et vos contributions à ce projet. Il y a juste quelques petites directives que vous devez suivre.
 
-N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
+## Contrat de licence de contributeur
 
-Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! Faites-nous part de vos questions.
+Les contributions à ce projet doivent être accompagnées d'un contrat de licence de contributeur. Vous (ou votre employeur) conservez le droit d'auteur sur votre contribution ; cela nous donne simplement la permission d'utiliser et de redistribuer vos contributions dans le cadre du projet. Rendez-vous sur <https://cla.developers.google.com/> pour voir vos accords actuels enregistrés ou pour en signer un nouveau.
 
-### Sécurité
+Vous n'avez généralement besoin de soumettre un CLA qu'une seule fois, donc si vous en avez déjà soumis un (même si c'était pour un projet différent), vous n'avez probablement pas besoin de le refaire.
 
-**Ne publiez aucun problème de sécurité sur le dépôt publique!** Voir [Signalement des problèmes de sécurité](Security.md)
+## Révision de code
+
+Toutes les soumissions, y compris les soumissions des membres du projet, doivent être examinées. Nous utilisons les demandes d'extraction GitHub à cette fin. Consultez [l'aide de GitHub](https://help.github.com/articles/about-pull-requests/) pour plus d'informations sur l'utilisation des pull requests.
+
+## Règles de la communauté
+
+Ce projet suit [Google's Open Source Community
+Guidelines](https://opensource.google/conduct/).
