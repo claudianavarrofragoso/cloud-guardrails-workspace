@@ -1,11 +1,9 @@
-# GC Cloud Guardrails for Google Workspace
+# Google Workspace Guardrails
 Recommended configuration guidance for Google Workspace / Conseils de configuration recommandés pour Google Workspace
-
-(Note: Google Workspace has only been approved for Unclassified Data)
 
 ([Français](#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-google-workspace))
 
-This repository details the guardrails required for Google Workspace to be deployed within the Government of Canada. The target audience of this documentation is GC employees looking to deploy Google Workspace as a productivity and collaboration solution.
+This repository details the guardrails required for Google Workspace to be deployed within the Canadian Public Sector. The target audience of this documentation is departments and agencies looking to deploy Google Workspace as a productivity and collaboration solution.
 
 ## Purpose
 
@@ -45,22 +43,16 @@ Departments should engage with their IT Security Risk Management teams to obtain
 
 See [How to Contribute](Contributing.md)
 
-### License
-
-Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the [MIT License](LICENSE).
-
-The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see [Federal identity requirements](https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/federal-identity-requirements.html).
-
 ______________________
-# Mesures de sécurité d’informatique en nuage du GC pour Google Workspace
+# Mesures de sécurité d’informatique pour Google Workspace
 
 ([English](#gc-cloud-guardrails-for-google-workspace))
 
-Ce projet détaille les mesures de sécurité requises pour que Google Workspace soit déployé au sein du gouvernement du Canada. Les utilisateurs de cette documentation seront les employés du GC qui cherchent à déployer Google Workspace en tant que solution de productivité et de collaboration.
+Ce projet détaille les mesures de sécurité requises pour que Google Workspace soit déployé au sein du Secteur Public du Canada. Les utilisateurs de cette documentation seront les ministères et les agences qui cherchent à déployer Google Workspace en tant que solution de productivité et de collaboration.
 
 ## Objectif
 
-L'objectif de ces mesures de sécurité est de garantir que les services et les agences mettent en œuvre un ensemble de contrôles de base pour leur environnement Google Workspace.
+L'objectif de ces mesures de sécurité est de garantir que les ministères et les agences mettent en œuvre un ensemble de contrôles de base pour leur environnement Google Workspace.
 
 **Remarque : ces mesures de sécurité sont destinées aux données non classifiées au sein du gouvernement du Canada.**
 
@@ -95,9 +87,3 @@ Les ministères devraient collaborer avec leurs équipes de gestion des risques 
 ### Comment contribuer
 
 Voir [Comme contribuer](Contributing.md)
-
-### Licence
-
-Sauf indication contraire, le code source de ce projet est protégé par le droit d’auteur de la Couronne du gouvernement du Canada et distribué sous la [licence MIT](LICENSE).
-
-Le mot-symbole « Canada » et les éléments graphiques connexes liés à cette distribution sont protégés en vertu des lois portant sur les marques de commerce et le droit d’auteur. Aucune autorisation n’est accordée pour leur utilisation à l’extérieur des paramètres du programme de coordination de l’image de marque du gouvernement du Canada. Pour obtenir de plus amples renseignements à ce sujet, veuillez consulter les [Exigences pour l’image du Canada](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque.html).
